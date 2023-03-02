@@ -1,0 +1,1 @@
+This is a self-project to view existing movie reviews using a free API
