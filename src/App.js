@@ -1,6 +1,6 @@
 import './App.css';
 import { useEffect,useState} from 'react';
-import Card from './Card.js'
+import Card from './component/Card.js'
 import {getMovieList,searchMovie} from './Api.js'
 
 function App() {
